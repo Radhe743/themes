@@ -76,7 +76,7 @@
 		"titleBar.border": "#00000060",
 		"titleBar.inactiveBackground": "#232a2f",
 		"toolbar.hoverBackground": "#707a8430",
-		"widget.shadow": "#1a2023"
+		"widget.shadow": "#1a2023",
 		//"activityBar.dropBorder": "#89ddff",
 		//"badge.background": "#4d4d4d",
 		//"badge.foreground": "#ffffff",
@@ -732,7 +732,8 @@
 		//"tab.unfocusedActiveBorder": null,
 		//"tab.unfocusedHoverBorder": null,
 		//"tab.unfocusedHoverForeground": null,
-		//"terminal.background": null,
+
+		"terminal.background": "#0a111040"
 		//"terminal.findMatchBorder": null,
 		//"terminal.findMatchHighlightBorder": null,
 		//"terminal.selectionForeground": null,
