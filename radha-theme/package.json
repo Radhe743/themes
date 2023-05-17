@@ -3,6 +3,8 @@
 	"displayName": "Radha Theme",
 	"description": "Radha Theme",
 	"version": "0.0.1",
+	"publisher": "radha",
+	"repository": "https://github.com/Radhe743/themes",
 	"engines": {
 		"vscode": "^1.78.0"
 	},
