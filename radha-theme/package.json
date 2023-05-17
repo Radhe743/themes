@@ -1,0 +1,21 @@
+{
+	"name": "radha-theme",
+	"displayName": "Radha Theme",
+	"description": "Radha Theme",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.78.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Golok",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Golok-color-theme.json"
+			}
+		]
+	}
+}
