@@ -5,7 +5,7 @@
 	"version": "0.1.1",
 	"publisher": "radha",
 	"repository": "https://github.com/Radhe743/themes",
-	"icon": "icons/radha-icon.svg",
+	"icon": "icons/radha-icon.png",
 	"engines": {
 		"vscode": "^1.78.0"
 	},
