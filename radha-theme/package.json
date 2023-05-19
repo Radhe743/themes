@@ -2,9 +2,10 @@
 	"name": "radha-theme",
 	"displayName": "Radha Theme",
 	"description": "Radha Theme",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"publisher": "radha",
 	"repository": "https://github.com/Radhe743/themes",
+	"icon": "icons/radha-icon.svg",
 	"engines": {
 		"vscode": "^1.78.0"
 	},
